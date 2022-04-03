@@ -1,3 +1,4 @@
+# ⚠️ deprecated and moved to [rugpullindex/libharberger](https://github.com/rugpullindex/libharberger)
 # Harbergerd
 
 [![unit tests](https://github.com/rugpullindex/harbergerd/actions/workflows/main.yml/badge.svg)](https://github.com/rugpullindex/harbergerd/actions/workflows/main.yml)
